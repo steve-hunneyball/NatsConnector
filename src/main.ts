@@ -1,10 +1,3 @@
-/*
-    this needs to...
-    connect to nats
-    subscribe to a subject
-    queue group
-
- */
 import 'dotenv/config';
 import {Server} from "./nats/server";
 
